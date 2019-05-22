@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 45,
+        "length": 38,
         "location": 0
       }
     ],
-    "string": "George’s change\nmore changes\nyet more changes"
+    "string": "George’s change\nmore \nyet more changes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
