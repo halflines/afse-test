@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53F91218-2212-434E-A8CA-8FD9B77CF871",
+  "do_objectID": "4FBE2A0E-16AA-4770-AB89-75DFF9DEC0ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +22,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": 1099,
+    "y": 222
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -31,29 +39,47 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "8EE6BB16-D177-44FE-A011-61E6F2F785DA"
+      "class": "rectangle",
+      "id": "59B1E8D1-A144-4E10-AD22-AD7FCB179D00"
     },
     {
-      "class": "artboard",
-      "id": "4FBE2A0E-16AA-4770-AB89-75DFF9DEC0ED"
+      "class": "text",
+      "id": "A7211287-993D-470A-8AF1-877981E7C3DC"
+    },
+    {
+      "class": "text",
+      "id": "D0B0194B-3B91-4C1E-B97D-835B636ABFD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8CA87F6-72FF-468B-B3E0-C7D1DF0952BA"
     }
   ],
-  "name": "Page 1",
+  "name": "Artboard Copy",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
