@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 45,
         "location": 0
       }
     ],
-    "string": "George’s change"
+    "string": "George’s change\nmore changes\nyet more changes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8126E749-B9AA-40F3-A3EE-BF0151607C80",
-    "height": 42,
-    "width": 277,
-    "x": 49,
+    "height": 126,
+    "width": 289,
+    "x": 43,
     "y": 74
   },
-  "glyphBounds": "{{1, 7}, {275, 35}}",
+  "glyphBounds": "{{0, 7}, {287, 119}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "George’s change",
+  "name": "George’s change more",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
